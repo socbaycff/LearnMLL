@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238898389931",
+    "firebase_url": "https://learnmll.firebaseio.com",
+    "project_id": "learnmll",
+    "storage_bucket": "learnmll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238898389931:android:ef12dff71d399f649ba8ee",
+        "android_client_info": {
+          "package_name": "com.example.learnmll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238898389931-h8322uhikii2emottvs0grt42rsplpq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnmll",
+            "certificate_hash": "127eb612f64f4b5f83976cf088348e1333f725ae"
+          }
+        },
+        {
+          "client_id": "238898389931-ng7k4juhuq7vlojcbenjrcb7rvnkuecb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA599-e2xyCg-wiolBoydosJG0i3lqLx_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238898389931-ng7k4juhuq7vlojcbenjrcb7rvnkuecb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
