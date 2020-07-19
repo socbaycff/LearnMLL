@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var labeler: FirebaseVisionImageLabeler
 
     companion object {
-        val RC_CHOOSE = 4
+        val RC_CHOOSE = 4 //
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
